@@ -72,7 +72,7 @@
                                                 <li><a href="about.php">เกี่ยวกับ</a></li>
                                                 <li><a href="contact.php">ติดต่อเรา</a></li>
                                                 <!-- Button -->
-                                                <li class="button-header margin-left "><a href="?p=register" class="btn">ลงทะเบียน</a></li>
+                                                <li class="button-header margin-left "><a href="../lms/?p=register" class="btn">ลงทะเบียน</a></li>
                                                 <li class="button-header"><a href="../../lms/?p=login" class="btn btn3">เข้าสู่ระบบ</a></li>
                                             </ul>
                                         </nav>
