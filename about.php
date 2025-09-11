@@ -36,9 +36,7 @@
                         <div class="front-text">
                             <h2 class="">แพลตฟอร์มการจัดการเรียนการสอน
 ของครูสาขาวิชาการจัดการธุรกิจค้าปลีก</h2>
-                            <p>The automated process all your website tasks. Discover tools and 
-                                techniques to engage effectively with vulnerable children and young 
-                            people.</p>
+                            <p>วัตถุประสงค์ของแพลตฟอร์ม</p>
                         </div>
                     </div>
                     <div class="single-features">
@@ -46,7 +44,7 @@
                             <img src="./courses/assets/img/icon/right-icon.svg" alt="">
                         </div>
                         <div class="features-caption">
-                            <p>Techniques to engage effectively with vulnerable children and young people.</p>
+                            <p>เป็นศูนย์รวมข้อมูลสำคัญสำหรับการจัดการเรียนการสอน</p>
                         </div>
                     </div>
                     <div class="single-features">
@@ -54,7 +52,7 @@
                             <img src="./courses/assets/img/icon/right-icon.svg" alt="">
                         </div>
                         <div class="features-caption">
-                            <p>Join millions of people from around the world  learning together.</p>
+                            <p>สนับสนุนการเรียนการสอนแบบออนไลน์อย่างมีประสิทธิภาพ</p>
                         </div>
                     </div>
 
@@ -63,7 +61,25 @@
                             <img src="./courses/assets/img/icon/right-icon.svg" alt="">
                         </div>
                         <div class="features-caption">
-                            <p>Join millions of people from around the world learning together. Online learning is as easy and natural.</p>
+                            <p>เป็นคลังสื่อการสอนและแหล่งเรียนรู้ที่หลากหลาย</p>
+                        </div>
+                    </div>
+
+                    <div class="single-features">
+                        <div class="features-icon">
+                            <img src="./courses/assets/img/icon/right-icon.svg" alt="">
+                        </div>
+                        <div class="features-caption">
+                            <p>เป็นเครื่องมือในการประเมินผลการเรียนรู้และสมรรถนะของผู้เรียน</p>
+                        </div>
+                    </div>
+
+                    <div class="single-features">
+                        <div class="features-icon">
+                            <img src="./courses/assets/img/icon/right-icon.svg" alt="">
+                        </div>
+                        <div class="features-caption">
+                            <p>เสริมสร้างองค์ความรู้และการพัฒนาบุคลากรในสาขาวิชาธุรกิจค้าปลีก</p>
                         </div>
                     </div>
                 </div>
