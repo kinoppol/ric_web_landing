@@ -33,7 +33,7 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-7 col-lg-8">
                         <div class="section-tittle text-center mb-55">
-                            <h2>สาขาวิชาการจัดการธุรกิจค้าปลีก</h2>
+                            <h2>หลักสูตรประกาศนียบัตรวิชาชีพ/ประกาศนียบัตรวิชาชีพชั้นสูง พุทธศักราช 2567</h2>
                         </div>
                     </div>
                 </div>
@@ -42,63 +42,11 @@
                     <div class="properties pb-20">
                         <div class="properties__card">
                             <div class="properties__img overlay1">
-                                <a href="#"><img src="../images/data_center.png" alt=""></a>
-                            </div>
-                            <div class="properties__caption">
-                                <h3><a href="#">ศูนย์ข้อมูล</a></h3>
-                                <p>
-                                - แนะนำ CVM <br>
-                                - ข้อมูลสถานศึกษา  <br>
-                                - ข้อมูลสถานประกอบการ  <br>
-                                - ข้อมูลนักเรียน  <br>
-                                - ข้อมูลครูผู้สอน  <br>
-                                - ข้อมูลการเรียนระบบทวิภาคี  <br>
-                                - ข้อมูลตลาดแรงงาน  <br>
-                                - ข้อมูลข่าวสาร  <br>
-                                - ข้อมูลการแนะแนว  <br>
-                                </p>
-                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
-                            </div>
-
-                        </div>
-                    </div>
-                    <!-- Single -->
-                    <!-- Single -->
-                    <div class="properties pb-20">
-                        <div class="properties__card">
-                            <div class="properties__img overlay1">
-                            <a href="#"><img src="../images/education_center.png" alt=""></a>
-                            </div>
-                            <div class="properties__caption">
-                                <h3><a href="#">ศูนย์การศึกษา</a></h3>
-                                <p>
-                                - หลักสูตร <br>
-                                - หลักสูตรระยะสั้น <br>
-                                - ความรู้ด้านธุรกิจค้าปลีก <br>
-                                - ต้นแบบผู้ประสบความสำเร็จ <br>
-                                - สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน)  <br>
-
-                                </p>
-                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Single -->
-                    <!-- Single -->
-                    <div class="properties pb-20">
-                        <div class="properties__card">
-                            <div class="properties__img overlay1">
                             <a href="#"><img src="../images/modern_trade.jpg" alt=""></a>
                             </div>
                             <div class="properties__caption">
-                                <h3><a href="#">ศูนย์แหล่งเรียนรู้</a></h3>
-                                <p>
-                                - ห้องเรียนออนไลน์ <br>
-                                - สื่อการสอน <br>
-                                - นวัตกรรม <br>
-                                - งานวิจัย/บทความทางวิชาการ <br>
-                                </p>
-                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
+                                <h3><a href="#">ปวช.</a></h3>
+                                <a href="https://bsq.vec.go.th/Portals/9/Course/20/2567/20200/20211v9.pdf" target="_blank" class="border-btn border-btn2">ธุรกิจค้าปลีก</a>
                             </div>
 
                         </div>
@@ -111,30 +59,8 @@
                             <a href="#"><img src="../images/test_center.png" alt=""></a>
                             </div>
                             <div class="properties__caption">
-                                <h3><a href="#">ศูนย์ทดสอบ</a></h3>
-                                <p>
-                                - ทดสอบสมรรถนะมาตรฐานวิชาชีพ <br>
-                                </p>
-                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
-                            </div>
-
-                        </div>
-                    </div>
-                    <!-- Single -->
-                     <!-- Single -->
-                    <div class="properties pb-20">
-                        <div class="properties__card">
-                            <div class="properties__img overlay1">
-                            <a href="#"><img src="../images/vocational_center.jpg" alt=""></a>
-                            </div>
-                            <div class="properties__caption">
-                                <h3><a href="#">ศูนย์บริการวิชาการวิชาชีพ</a></h3>
-                                <p>
-                                -  การบริการวิชาการ <br>
-                                -  การบริการวิชาชีพ
-
-                                </p>
-                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
+                                <h3><a href="#">ปวส.</a></h3>
+                                <a href="https://bsq.vec.go.th/Portals/9/Course/30/2567/30200/30211v3.pdf" target="_blank" class="border-btn border-btn2">การจัดการธุรกิจค้าปลีก</a>
                             </div>
 
                         </div>
