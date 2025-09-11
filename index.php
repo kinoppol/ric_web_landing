@@ -13,7 +13,7 @@
                                 <div class="hero__caption">
                                     <h1 data-animation="fadeInLeft" data-delay="0.2s">แพลตฟอร์มการจัดการเรียนการสอน<br></h1>
                                     <p data-animation="fadeInLeft" data-delay="0.4s">ของครูสาขาวิชาการจัดการธุรกิจค้าปลีก</p>
-                                    <a href="?p=register" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.7s">ลงทะเบียนเรียนฟรี</a>
+                                    <a href="../lms/?p=register" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.7s">ลงทะเบียนเรียนฟรี</a>
                                 </div>
                             </div>
                         </div>
@@ -137,7 +137,7 @@
                                 - สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน)  <br>
 
                                 </p>
-                                <a href="https://cvm.vec.go.th/" target="_blank" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
+                                <a href="courses.php" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
                             </div>
                         </div>
                     </div>
@@ -173,7 +173,7 @@
                                 <p>
                                 - ทดสอบสมรรถนะมาตรฐานวิชาชีพ <br>
                                 </p>
-                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
+                                <a href="https://www.facebook.com/people/%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94-%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%9E%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%99/61571075092097" target="_blanks" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
                             </div>
 
                         </div>
