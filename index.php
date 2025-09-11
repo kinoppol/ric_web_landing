@@ -115,7 +115,7 @@
                                 - ข้อมูลข่าวสาร  <br>
                                 - ข้อมูลการแนะแนว  <br>
                                 </p>
-                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
+                                <a href="https://cvm.vec.go.th/" target="_blank" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
                             </div>
 
                         </div>
@@ -137,7 +137,7 @@
                                 - สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน)  <br>
 
                                 </p>
-                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
+                                <a href="https://cvm.vec.go.th/" target="_blank" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
                             </div>
                         </div>
                     </div>
@@ -156,7 +156,7 @@
                                 - นวัตกรรม <br>
                                 - งานวิจัย/บทความทางวิชาการ <br>
                                 </p>
-                                <a href="#" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
+                                <a href="../lms" class="border-btn border-btn2">ดูข้อมูลเพิ่มเติม</a>
                             </div>
 
                         </div>
